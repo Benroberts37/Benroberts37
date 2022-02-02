@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Benroberts37/Benroberts37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ben! Here's a little bit about me:
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... A personal website to highlight projects I am working on 
 - 🌱 I’m currently learning ... Javascript, React, and Node.js at BloomTech (formerly Lambda School)
