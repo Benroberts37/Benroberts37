@@ -13,7 +13,9 @@ I'm Ben! Here's a little bit about me:
 Skills: 
 
 Front End: React.js, Redux, Hooks, Context API, Jest, Axios, JavaScript, HTML, CSS, Testing
+
 Back End: Node.js, Express, Knex,  SQL, GitHub, VS Code, Vercel
+
 Other Skills: Jira,  Asana, Project Management, Snowflake Analytics, Fluent Spanish, Tableau, Data Visualization
 
 You can connect with me below:
