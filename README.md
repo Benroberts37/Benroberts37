@@ -2,7 +2,7 @@
 
 I'm Ben! Here's a little bit about me:
 
-- I currently work at Vercel 
+- I currently work at Tailscale
 - ⚡ Fun fact: ... I lived in Argentina and Paraguay for two years. 
 - 🏔 I enjoy hiking, camping, backpacking, skiing, playing soccer + spikeball + tennis + pickleball, reading, and attending church at The Church of Jesus Christ of Latter-day Saints
 
